@@ -1,2 +1,2 @@
 # halc
-Hika's auditory learning collection.
+Hika's auditory learning resources.
